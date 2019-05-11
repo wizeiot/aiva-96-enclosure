@@ -1,8 +1,3 @@
----
-title: Documentation AiVA 96 Mezzanine
-permalink: /documentation/mezzanine/aiva-96/
----
-
 ## AiVA-96 Enclosure Case
 
 # Summary
@@ -11,9 +6,9 @@ WizeIoT AiVA-96 mezzanine board for DragonBoard 410c and 96Boards enables develo
 
 We are release AiVA-96's enclosure case for everyone, who want to use for their purpose. It's 96Boards compatible base plate and form factor. M3-05 x 5mm screws are needed for mount bottom PCB.
 
-![](/images/aiva-case-box.jpg)
+![](https://github.com/wizeiot/aiva-96-enclosure/blob/master/images/aiva-case-box.jpeg?raw=true)
 
-![](/images/aiva-inside-out.jpg)
+![](https://github.com/wizeiot/aiva-96-enclosure/blob/master/images/aiva-inside-out.jpeg?raw=true)
 
 
 You can refer [AiVA-96 Mezzanine XMOS XVF3000 Unboxing and Assembly Guide](https://youtu.be/s8YHpDNfv0A) as assembly instruction.
